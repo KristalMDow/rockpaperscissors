@@ -3,6 +3,8 @@ Javascript game interacting with the user to play "Rock, Paper, Scissors". A sim
 
 ## Demonstrated Skills
 This project is one of multiple that are a result of my study of [The Odin Project](https://theodinproject.com). In this project, I will demonstrate the following skills:
+- Manipulating the DOM
+- Event handling
 - Writing my own readme file
 - Version control in Git, using the linux command line (Ubuntu)
 - Beginner skills in Javascript, including simple if/then logic and functions

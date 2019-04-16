@@ -1,0 +1,29 @@
+html, body {
+    background-image: url("http://www.snazzyspace.com/wallpapers/012c52_scissors-paper-rock.png");
+    font: normal 1em/2 Arial, sans-serif;
+    height: 100%;
+}
+
+#formatDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 75%;
+    width: 100%;
+}
+
+#container {
+    background-color: white;
+    width: 600px;
+    padding: 30px;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    font-size: 1.5em;
+    border: 0px;
+    padding: 5px 15px;
+    margin: 5px 10px;
+}
